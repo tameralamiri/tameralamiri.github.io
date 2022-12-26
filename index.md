@@ -6,4 +6,4 @@ Interested in:
 - Mentoring opportunities with non-profit STEM organizations.
 - public speaking opportunities in tech meetups and conferences.
 
-For intro calls use this link to book a time: https://calendly.com/0tamer/30min
+For intro calls use this [link](https://calendly.com/0tamer/30min) to book a time: 
