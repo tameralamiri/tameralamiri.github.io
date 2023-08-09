@@ -9,7 +9,7 @@ Implementing a growth strategy is a different process for different stakeholders
 For one, your board or investors will want to know how a growth strategy will (positively) affect financial performance of the company.
 
 
-![A simplified revenue projection graph](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/_posts/imgs/a-simplified-revenue-projection-graph.png)
+![A simplified revenue projection graph](./imgs/a-simplified-revenue-projection-graph.png)
 
 Meanwhile, a conversation about growth with the product team will have more specificity and focus on considerations such as: 
 
@@ -18,7 +18,7 @@ Meanwhile, a conversation about growth with the product team will have more spec
 
 Let’s look at one basic growth metric LTV/CAC (lifetime value/ customer acquisition cost).
 
-![LTV/CAC projection graph](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/_posts/imgs/ltv-cac-projection-graph.png)
+![LTV/CAC projection graph](./imgs/ltv-cac-projection-graph.png)
 
 Some of the questions related to this metric the product team will try to answer include:
 * What features can be added to increase customer engagement?
@@ -62,7 +62,7 @@ And your execution plan would follow the logical order of building these service
 * Finally launch to market
 In this example, you will end up not having enough time between the launch of the new platform and the end of the fiscal year, which will result in missing all the customer and revenue growth goals you had planned for at the beginning of the year.
 
-![Without MVFs Planning](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/_posts/imgs/without-mvfs-planning.png)
+![Without MVFs Planning](./imgs/without-mvfs-planning.png)
 
 ### With MVFs:
 The three services will be broken down into:
@@ -82,7 +82,7 @@ The three services will be broken down into:
   * MVF C.3: Build a client view to browse and export the aggregated data.
   * MVF C.4: Build a client view to experiment with the different formats of the data on the platform and generate their own insights.
 
-![With MVFs Planning](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/_posts/imgs/with-mvfs-planning.png)
+![With MVFs Planning](./imgs/with-mvfs-planning.png)
 
 
 The MVF model stands to benefit the entire organization. Here are for instance: 
