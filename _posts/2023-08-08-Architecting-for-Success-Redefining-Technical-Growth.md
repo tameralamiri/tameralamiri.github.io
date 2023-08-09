@@ -39,6 +39,7 @@ The solution is to put some effort into short-term goals, and also to break the 
 * **An MVF is not a quick and dirty solution to show value to customers (not an MVP). It’s a well-designed piece of the platform that will live for a minimum of 3 years before getting updated, which is very important to communicate with the engineering team.**
 * **An MVF is not the full product. It's a small feature or a fraction of a feature of the final product, which is very important to communicate with the product team and other stakeholders outside the R&D to get their buy-in.**
 * **A collection of MVFs build up what the product team call a Milestone.**
+
 ### Who can design MVFs:
 * Someone who understands the product and the business needs. 
 * Someone who has strong software architecture skills to envision how the full system should be designed e2e and knows how to slice it into those small **MVFs**. 
