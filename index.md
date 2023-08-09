@@ -8,4 +8,4 @@ If you:
 Hit me up, I can help you or connect you with someone who can
 
 
-[Calendar link:](https://calendar.app.google/b95vMXhQfFNK2UtaA)
+Click to view my [Calendar link.](https://calendar.app.google/b95vMXhQfFNK2UtaA) 
