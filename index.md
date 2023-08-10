@@ -1,11 +1,17 @@
-
-If you:
-- Are an entrepreneur who wants to start their tech-based business and need some advice on which technology to choose
-- Have a monolith architecture and want to break into micro-services
-- Want to leverage the server-less architecture offered by AWS or GCP
-- Want to understand how to use AI with your data platform
-
-Hit me up, I can help you or connect you with someone who can
+## Are you ready to scale your data platform?
+Book an intro call on here to see how we can collaborate ->  https://calendar.app.google/QJ36Z2R2WZzqBEwH7
 
 
-Click to view my [Calendar link.](https://calendar.app.google/b95vMXhQfFNK2UtaA) 
+## What I do:
+* Understanding what kind of scaling you expect on the business side and how the technology will support it.
+* Understanding the current software architecture and its limitations
+* Understanding resources limitations in terms of (time, workforce, budget)
+* Proposing a new system architecture & improvements on the currently existing one, to meet the company needs
+* Creating an execution plan with priorities and delivery dates
+* Working closely with the existing dev team to deliver the new architecture and/or onboarding a vetted consulting dev team to help accelerate the development process of the new platform.
+
+
+## What benefits the clients notice:
+* Enhanced end-user experience after noticeable Improvements in their existing platform performance (stability, speed, up-time)
+* Increased number of end-users and the ability to sign bigger deals with other business partners after deploying a scalable architecture.
+* Helping in the fundraising process, A sophisticated system architecture with a growing number of happy users, and the ability to execute on the growth vision attracts more investors to support and believe in the company’s long-term potential.
