@@ -2,7 +2,7 @@
 * Write to me on consult@tamer.io to connect
 
 ## What I do:
-* Design scalable data platforms
+* Design scalable data platforms & AI Systems
 
 ## How I do it:
 * Understanding what kind of scaling you expect on the business side and how the technology will support it.
