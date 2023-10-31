@@ -1,8 +1,10 @@
 ## Are you ready to scale your data platform?
-Book an intro call on here to see how we can collaborate ->  https://calendar.app.google/QJ36Z2R2WZzqBEwH7
-
+* Write to me on consult@tamer.io to connect
 
 ## What I do:
+* Design scalable data platforms
+
+## How I do it:
 * Understanding what kind of scaling you expect on the business side and how the technology will support it.
 * Understanding the current software architecture and its limitations
 * Understanding resources limitations in terms of (time, workforce, budget)
