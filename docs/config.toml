@@ -43,19 +43,19 @@ enable_multilingue = false
 # ]
 
 [extra.navbar]
-# items = [
-#     { lang = "en", links = [
-#         { url = "/", name = "Home" },
-#         { url = "/categories", name = "Categories" },
-#         { url = "/tags", name = "Tags" },
-#     ] },
-#     { lang = "fr", links = [
-#         { url = "/fr", name = "Accueil" },
-#         { url = "/fr/categories", name = "Categories" },
-#         { url = "/fr/tags", name = "Tags" },
-#     ] },
-# ]
-title = "Tech Blog"
+items = [
+    { lang = "en", links = [
+        { url = "/blog", name = "Tech Blog" },
+        { url = "/categories", name = "Categories" },
+        { url = "/tags", name = "Tags" },
+    ] },
+    { lang = "fr", links = [
+        { url = "/fr", name = "Accueil" },
+        { url = "/fr/categories", name = "Categories" },
+        { url = "/fr/tags", name = "Tags" },
+    ] },
+]
+title = "Home"
 
 # [extra.sidebar]
 # items = [
