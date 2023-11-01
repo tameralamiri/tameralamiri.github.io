@@ -72,12 +72,12 @@ title = "Tech Blog"
 # Index page
 [extra.index]
 title = "Tamer Alamiri"
-image = "https://github.com/tameralamiri/tameralamiri.github.io/blob/main/docs/public/img/index.jpeg?raw=true"
+image = "https://github.com/tameralamiri/tameralamiri.github.io/blob/tamer/zola/template/docs/public/img/index.jpeg?raw=true"
 image_alt = "Placeholder text describing the index's image."
 
 [extra.default_author]
 name = "Tamer Alamiri"
-avatar = "https://github.com/tameralamiri/tameralamiri.github.io/blob/main/docs/public/img/index.jpeg?raw=true"
+avatar = "https://github.com/tameralamiri/tameralamiri.github.io/blob/tamer/zola/template/docs/public/img/index.jpeg?raw=true"
 avatar_alt = "Placeholder text describing the default author's avatar."
 
 [extra.social]
