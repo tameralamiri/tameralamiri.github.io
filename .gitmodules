@@ -1,4 +1,4 @@
-[submodule "docs/themes/blow"]
-	path = docs/themes/blow
+[submodule "themes/blow"]
+	path = themes/blow
 	url = git@github.com:tchartron/blow.git
 	branch = main
