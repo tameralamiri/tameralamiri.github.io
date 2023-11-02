@@ -16,5 +16,4 @@ jobs:
           BUILD_THEMES: true
           PAGES_BRANCH: gh-pages
           BUILD_DIR: .
-          OUT_DIR: docs
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
