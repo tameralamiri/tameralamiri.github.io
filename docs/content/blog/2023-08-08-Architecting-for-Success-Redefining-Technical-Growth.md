@@ -16,7 +16,7 @@ Implementing a growth strategy is a different process for different stakeholders
 For one, your board or investors will want to know how a growth strategy will (positively) affect financial performance of the company.
 
 
-![A simplified revenue projection graph](https://github.com/tameralamiri/tameralamiri.github.io/blob/tamer/zola/template/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/a-simplified-revenue-projection-graph.png?raw=true)
+![A simplified revenue projection graph](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/a-simplified-revenue-projection-graph.png?raw=true)
 
 Meanwhile, a conversation about growth with the product team will have more specificity and focus on considerations such as: 
 
@@ -25,7 +25,7 @@ Meanwhile, a conversation about growth with the product team will have more spec
 
 Let’s look at one basic growth metric LTV/CAC (lifetime value/ customer acquisition cost).
 
-![LTV/CAC projection graph](https://github.com/tameralamiri/tameralamiri.github.io/blob/tamer/zola/template/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/ltv-cac-projection-graph.png?raw=true)
+![LTV/CAC projection graph](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/ltv-cac-projection-graph.png?raw=true)
 
 Some of the questions related to this metric the product team will try to answer include:
 * What features can be added to increase customer engagement?
@@ -69,7 +69,7 @@ And your execution plan would follow the logical order of building these service
 * Finally launch to market
 In this example, you will end up not having enough time between the launch of the new platform and the end of the fiscal year, which will result in missing all the customer and revenue growth goals you had planned for at the beginning of the year.
 
-![Without MVFs Planning](https://github.com/tameralamiri/tameralamiri.github.io/blob/tamer/zola/template/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/without-mvfs-planning.png?raw=true)
+![Without MVFs Planning](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/without-mvfs-planning.png?raw=true)
 
 ### With MVFs:
 The three services will be broken down into:
@@ -89,7 +89,7 @@ The three services will be broken down into:
   * MVF C.3: Build a client view to browse and export the aggregated data.
   * MVF C.4: Build a client view to experiment with the different formats of the data on the platform and generate their own insights.
 
-![With MVFs Planning](https://github.com/tameralamiri/tameralamiri.github.io/blob/tamer/zola/template/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/with-mvfs-planning.png?raw=true)
+![With MVFs Planning](https://github.com/tameralamiri/tameralamiri.github.io/blob/main/docs/static/imgs/2023-08-08-Architecting-for-Success-Redefining-Technical-Growth/with-mvfs-planning.png?raw=true)
 
 
 The MVF model stands to benefit the entire organization. Here are for instance: 
